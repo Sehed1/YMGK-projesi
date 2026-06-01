@@ -1,6 +1,6 @@
 Library/
 Logs/
-
+.vscode/
 
 *.csproj
 *.sln
