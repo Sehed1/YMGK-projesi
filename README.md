@@ -137,7 +137,7 @@ GitHub dosya boyutu sınırları nedeniyle bazı dosyalar depoya eklenmemiştir.
 
 🔗 İndirme Bağlantısı:
 
-https://drive.google.com/file/d/11fXatOzHCX78DR9WjG5stB0Cmj1jj45a/view?usp=sharing
+https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sharing
 
 ---
 
