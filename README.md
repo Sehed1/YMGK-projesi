@@ -4,15 +4,13 @@
 
 Dijital Balık Müzesi, çocuklara yönelik geliştirilmiş artırılmış gerçeklik (AR) tabanlı eğitsel bir mobil uygulamadır.
 
-Proje, çocukların hem deniz canlılarını tanımalarını hem de eğlenerek öğrenmelerini amaçlamaktadır.
+Uygulama, çocukların deniz canlılarını daha eğlenceli ve etkileşimli bir şekilde öğrenmelerini amaçlamaktadır. Sistem, kamera aracılığıyla belirlenen hedef görselleri algılar ve ilgili 3D içerikleri artırılmış gerçeklik ortamında görüntüler.
 
-Uygulama iki farklı artırılmış gerçeklik deneyimi sunmaktadır:
+Proje iki farklı AR deneyimi sunmaktadır:
 
 🐟 **Balık Müzesi**
 
 🧽 **SüngerBob Dünyası**
-
-Kullanıcı kamerayı ilgili görsele yönelttiğinde sistem görseli algılar ve üç boyutlu içerikleri artırılmış gerçeklik ortamında görüntüler.
 
 ---
 
@@ -21,22 +19,22 @@ Kullanıcı kamerayı ilgili görsele yönelttiğinde sistem görseli algılar v
 - Çocuklara balık türlerini öğretmek
 - Görsel öğrenmeyi desteklemek
 - Artırılmış gerçeklik teknolojisini eğitim alanında kullanmak
-- Eğitimi eğlenceli hale getirmek
-- Çocukların uygulamayla aktif etkileşim kurmasını sağlamak
+- Eğitimi daha eğlenceli hale getirmek
+- Kullanıcı etkileşimini artırmak
 
 ---
 
 # 🐟 Balık Müzesi Bölümü
 
-Kamera, deniz temalı hedef görsele tutulduğunda:
+Kamera balık müzesi hedef görseline tutulduğunda:
 
-- 3D balık modelleri görüntülenir.
-- Kullanıcı balıkların üzerine tıklayabilir.
-- Balık hakkında bilgiler görüntülenir.
+- Çeşitli balık türleri 3D olarak görüntülenir.
+- Kullanıcı balıklara dokunabilir.
+- Balık hakkında bilgiler ekranda gösterilir.
 - Balığın tehlike altında olup olmadığı öğrenilebilir.
 - Kullanıcı farklı balık türlerini inceleyebilir.
 
-Bu bölüm çocukların deniz canlılarını tanımalarını amaçlamaktadır.
+Bu bölüm çocukların deniz canlılarını tanımalarını ve öğrenmelerini amaçlamaktadır.
 
 ---
 
@@ -47,26 +45,28 @@ Kamera SüngerBob temalı hedef görsele tutulduğunda:
 - SüngerBob karakterleri 3D olarak görüntülenir.
 - Karakterler sesli olarak kendilerini tanıtır.
 - Tanıtım sonrasında kullanıcıya bir soru sorulur.
-- Ekranda mini quiz penceresi açılır.
+- Mini quiz ekranı açılır.
 - Kullanıcı iki seçenek arasından cevap verir.
+
+Bu bölüm, çocukların uygulamayla daha fazla etkileşim kurmasını ve öğrenirken eğlenmesini amaçlamaktadır.
 
 ---
 
 # 🎮 Quiz Sistemi
 
-SüngerBob bölümünde bulunan karakterler kullanıcıya kısa sorular yöneltmektedir.
+SüngerBob karakterleri kullanıcıya kısa sorular yöneltmektedir.
 
-### Doğru cevap
+### ✅ Doğru Cevap
 
-✅ Skor +1
+Skor +1
 
-### Yanlış cevap
+### ❌ Yanlış Cevap
 
-❌ Skor -1
+Skor -1
 
-Uygulama içerisinde skor değeri anlık olarak güncellenmektedir.
+Skor değeri uygulama içerisinde anlık olarak güncellenmektedir.
 
-Bu sistem çocukların öğrendiklerini eğlenceli bir şekilde pekiştirmelerine yardımcı olmaktadır.
+Bu sistem çocukların öğrendiklerini pekiştirmelerine yardımcı olmaktadır.
 
 ---
 
@@ -76,9 +76,9 @@ Bu sistem çocukların öğrendiklerini eğlenceli bir şekilde pekiştirmelerin
 |------------|------------|
 | Unity | Oyun motoru |
 | C# | Programlama dili |
-| Vuforia Engine | AR ve görsel tanıma sistemi |
+| Vuforia Engine | Görsel tanıma ve AR sistemi |
 | Android | Hedef mobil platform |
-| Augmented Reality | Artırılmış gerçeklik teknolojisi |
+| Augmented Reality (AR) | Artırılmış gerçeklik teknolojisi |
 
 ---
 
@@ -107,7 +107,7 @@ Assets/
 ├── Scriptler
 ├── Ses Dosyaları
 ├── Görseller
-│
+
 Packages/
 ProjectSettings/
 UserSettings/
@@ -133,7 +133,14 @@ Projeyi çalıştırmak için:
 
 GitHub dosya boyutu sınırları nedeniyle bazı dosyalar depoya eklenmemiştir.
 
-### APK ve Vuforia Paketi
+Aşağıdaki bağlantıda:
+
+- APK dosyası
+- Vuforia paketi
+- Balık Müzesi hedef görseli
+- SüngerBob hedef görseli
+
+bulunmaktadır.
 
 🔗 İndirme Bağlantısı:
 
@@ -141,13 +148,30 @@ https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sha
 
 ---
 
-# 🚀 Projeyi Açma
+# 🖼 AR Hedef Görselleri
 
-1. Projeyi GitHub'dan indiriniz.
-2. Unity Hub üzerinden projeyi açınız.
+Uygulama iki farklı hedef görsel ile çalışmaktadır.
+
+### 🐟 Balık Müzesi Hedef Görseli
+
+Bu görsel algılandığında balık türleri görüntülenir ve balık bilgileri gösterilir.
+
+### 🧽 SüngerBob Hedef Görseli
+
+Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz sistemi aktif hale gelir.
+
+Her iki hedef görsel de yukarıdaki Google Drive bağlantısında bulunmaktadır.
+
+---
+
+# 🚀 Projeyi Çalıştırma
+
+1. Projeyi GitHub üzerinden indiriniz.
+2. Unity Hub ile projeyi açınız.
 3. Unity 2022.3.62f3 sürümünü kullanınız.
 4. Gerekirse Vuforia paketini projeye ekleyiniz.
-5. Android cihaz üzerinde test ediniz.
+5. Android cihaz üzerinde Build alınız veya APK dosyasını yükleyiniz.
+6. Uygulama açıldıktan sonra hedef görselleri kameraya göstererek AR deneyimini başlatınız.
 
 ---
 
@@ -171,6 +195,8 @@ https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sha
 
 # 🌊 Sonuç
 
-Dijital Balık Müzesi, artırılmış gerçeklik teknolojisini eğitim ile birleştiren interaktif bir mobil uygulamadır.
+Dijital Balık Müzesi, artırılmış gerçeklik teknolojisini eğitimle birleştiren interaktif bir mobil uygulamadır.
 
 Proje sayesinde çocuklar balık türlerini öğrenebilmekte, SüngerBob karakterleri ile etkileşime geçebilmekte ve quiz sistemi aracılığıyla bilgilerini eğlenceli bir şekilde test edebilmektedir.
+
+Bu proje, artırılmış gerçeklik teknolojisinin eğitim alanında etkili bir şekilde kullanılabileceğini gösteren örnek bir uygulamadır.
