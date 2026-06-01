@@ -1,0 +1,9 @@
+Library/
+Logs/
+UserSettings/
+
+*.csproj
+*.sln
+.DS_Store
+balik.apk
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
