@@ -1,5 +1,13 @@
 # 🐟🧽 Dijital Balık Müzesi
 
+# 👩‍💻 Geliştirici
+
+**ŞEHED HATİB**
+
+Öğrenci No: 220541608
+
+---
+
 ## 📖 Proje Hakkında
 
 Dijital Balık Müzesi, çocuklara yönelik geliştirilmiş artırılmış gerçeklik (AR) tabanlı eğitsel bir mobil uygulamadır.
@@ -185,13 +193,6 @@ Her iki hedef görsel de yukarıdaki Google Drive bağlantısında bulunmaktadı
 
 ---
 
-# 👩‍💻 Geliştirici
-
-**ŞEHED HATİB**
-
-Öğrenci No: 220541608
-
----
 
 # 🌊 Sonuç
 
