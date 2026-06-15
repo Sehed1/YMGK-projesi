@@ -1,5 +1,15 @@
 # 🐟🧽 Dijital Balık Müzesi
 
+---
+# 🎓 Akademik Bilgiler
+
+**Üniversite:** Fırat Üniversitesi
+
+**Ders:** YMGK
+
+**Proje Türü:** Artırılmış Gerçeklik (AR) Tabanlı Mobil Uygulama
+---
+
 # 👩‍💻 Geliştirici
 
 **ŞEHED HATİB**
@@ -205,18 +215,6 @@ Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz si
 6. Uygulama açıldıktan sonra hedef görselleri kameraya göstererek AR deneyimini başlatınız.
 
 ---
-
-# 🎓 Akademik Bilgiler
-
-**Üniversite:** Fırat Üniversitesi
-
-**Ders:** YMGK
-
-**Proje Türü:** Artırılmış Gerçeklik (AR) Tabanlı Mobil Uygulama
-
----
-
-
 # 🌊 Sonuç
 
 Dijital Balık Müzesi, artırılmış gerçeklik teknolojisini eğitimle birleştiren interaktif bir mobil uygulamadır.
