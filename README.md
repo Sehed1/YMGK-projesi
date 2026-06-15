@@ -142,13 +142,20 @@ Projeyi çalıştırmak için:
 
 ---
 
+## 📱 APK İndirme Bağlantısı
+
+Uygulamanın hızlı ve kolay şekilde test edilebilmesi için hazır APK dosyası aşağıdaki bağlantıdan indirilebilir:
+
+🔗  https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sharing
+
+---
+
 # 📥 Ek Dosyalar
 
 GitHub dosya boyutu sınırları nedeniyle bazı dosyalar depoya eklenmemiştir.
 
 Aşağıdaki bağlantıda:
 
-- APK dosyası
 - Vuforia paketi
 - Balık Müzesi hedef görseli
 - SüngerBob hedef görseli
