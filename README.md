@@ -181,19 +181,7 @@ Bu görsel algılandığında balık türleri görüntülenir ve kullanıcı bal
 
 Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz sistemi aktif hale gelir.
 
-![SüngerBob Target](images/sungerbob_gorseli.jpg)
-
-
-
-### 🐟 Balık Müzesi Hedef Görseli
-
-Bu görsel algılandığında balık türleri görüntülenir ve balık bilgileri gösterilir.
-
-### 🧽 SüngerBob Hedef Görseli
-
-Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz sistemi aktif hale gelir.
-
-Her iki hedef görsel de yukarıdaki Google Drive bağlantısında bulunmaktadır.
+![SüngerBob Target](images/sungerbob_goresli.jpg)
 
 ---
 
