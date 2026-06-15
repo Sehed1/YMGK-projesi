@@ -1,5 +1,15 @@
 # 🐟🧽 Dijital Balık Müzesi
 
+---
+# 🎓 Akademik Bilgiler
+
+**Üniversite:** Fırat Üniversitesi
+
+**Ders:** YMGK
+
+**Proje Türü:** Artırılmış Gerçeklik (AR) Tabanlı Mobil Uygulama
+---
+
 # 👩‍💻 Geliştirici
 
 **ŞEHED HATİB**
@@ -142,6 +152,17 @@ Projeyi çalıştırmak için:
 
 ---
 
+# 📊 Teknik Değerlendirme
+
+Proje aşağıdaki teknik kriterler doğrultusunda değerlendirilmiştir:
+
+- Çalışan modül oranı: Tüm modüller sorunsuz şekilde %100 çalışmaktadır. 
+- Gerçek ortam testi: Android cihazlarda başarıyla test edilmiştir.
+- Hata toleransı: Hedef görsel algılanmadığında uygulama kararlı şekilde çalışmaya devam etmektedir.
+- Kullanıcı doğrulaması: Kullanıcı testleri gerçekleştirilmiş ve olumlu geri bildirimler alınmıştır.
+- Performans metriği: AR içerikleri akıcı ve kararlı şekilde görüntülenmektedir.
+
+---
 ## 📋 Trello Board
 
 Proje geliştirme süreci aşağıdaki Trello panosu üzerinden takip edilmiştir.
@@ -197,6 +218,8 @@ Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz si
 
 # 🚀 Projeyi Çalıştırma
 
+Uygulama herhangi bir mobil cihazda doğrudan çalışıyor.
+
 1. Projeyi GitHub üzerinden indiriniz.
 2. Unity Hub ile projeyi açınız.
 3. Unity 2022.3.62f3 sürümünü kullanınız.
@@ -205,18 +228,20 @@ Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz si
 6. Uygulama açıldıktan sonra hedef görselleri kameraya göstererek AR deneyimini başlatınız.
 
 ---
+## 🔧 Projeyi Geliştirmek ve Düzenlemek
 
-# 🎓 Akademik Bilgiler
+Projede değişiklik yapmak isteyen geliştiriciler aşağıdaki adımları takip edebilir:
 
-**Üniversite:** Fırat Üniversitesi
-
-**Ders:** YMGK
-
-**Proje Türü:** Artırılmış Gerçeklik (AR) Tabanlı Mobil Uygulama
+1. Projeyi GitHub üzerinden indiriniz.
+2. Unity Hub kurunuz.
+3. Unity 2022.3.62f3 sürümünü yükleyiniz.
+4. Projeyi Unity ile açınız.
+5. Vuforia paketini ekleyiniz.
+6. Assets klasörü içerisindeki scriptleri ve sahneleri düzenleyiniz.
+7. Yeni hedef görseller veya 3D modeller ekleyiniz.
+8. Android Build alarak değişiklikleri test ediniz.
 
 ---
-
-
 # 🌊 Sonuç
 
 Dijital Balık Müzesi, artırılmış gerçeklik teknolojisini eğitimle birleştiren interaktif bir mobil uygulamadır.
