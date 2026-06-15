@@ -173,7 +173,7 @@ https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sha
 
 Bu görsel algılandığında balık türleri görüntülenir ve kullanıcı balıklar hakkında bilgi alabilir.
 
-![Balık Müzesi Target](images/balik_gorseli.jpg)
+<img src="images/balik_gorseli.jpg" width="500">
 
 ---
 
@@ -181,8 +181,7 @@ Bu görsel algılandığında balık türleri görüntülenir ve kullanıcı bal
 
 Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz sistemi aktif hale gelir.
 
-![SüngerBob Target](images/sungerbob_goresli.jpg)
-
+<img src="images/sungerbob_goresli.jpg" width="500">
 ---
 
 # 🚀 Projeyi Çalıştırma
