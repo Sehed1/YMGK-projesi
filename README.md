@@ -148,6 +148,8 @@ Proje geliştirme süreci aşağıdaki Trello panosu üzerinden takip edilmişti
 
 🔗 Trello Link:
 https://trello.com/b/UJDZrCmb/my-trello-board
+
+
 ---
 
 ## 📱 APK İndirme Bağlantısı
