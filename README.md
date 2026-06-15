@@ -142,6 +142,14 @@ Projeyi çalıştırmak için:
 
 ---
 
+## 📋 Trello Board
+
+Proje geliştirme süreci aşağıdaki Trello panosu üzerinden takip edilmiştir.
+
+🔗 Trello Link:
+https://trello.com/b/UJDZrCmb/my-trello-board
+---
+
 ## 📱 APK İndirme Bağlantısı
 
 Uygulamanın hızlı ve kolay şekilde test edilebilmesi için hazır APK dosyası aşağıdaki bağlantıdan indirilebilir:
@@ -182,6 +190,7 @@ Bu görsel algılandığında balık türleri görüntülenir ve kullanıcı bal
 Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz sistemi aktif hale gelir.
 
 <img src="images/sungerbob_goresli.jpg" width="500">
+
 ---
 
 # 🚀 Projeyi Çalıştırma
