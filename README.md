@@ -152,6 +152,17 @@ Projeyi çalıştırmak için:
 
 ---
 
+# 📊 Teknik Değerlendirme
+
+Proje aşağıdaki teknik kriterler doğrultusunda değerlendirilmiştir:
+
+- Çalışan modül oranı: %100
+- Gerçek ortam testi: Android cihazlarda başarıyla test edilmiştir.
+- Hata toleransı: Hedef görsel algılanmadığında uygulama kararlı şekilde çalışmaya devam etmektedir.
+- Kullanıcı doğrulaması: Kullanıcı testleri gerçekleştirilmiş ve olumlu geri bildirimler alınmıştır.
+- Performans metriği: AR içerikleri akıcı ve kararlı şekilde görüntülenmektedir.
+
+---
 ## 📋 Trello Board
 
 Proje geliştirme süreci aşağıdaki Trello panosu üzerinden takip edilmiştir.
