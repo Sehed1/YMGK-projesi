@@ -167,10 +167,23 @@ bulunmaktadır.
 https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sharing
 
 ---
+## 🖼 AR Hedef Görselleri
 
-# 🖼 AR Hedef Görselleri
+### 🐟 Balık Müzesi Hedef Görseli
 
-Uygulama iki farklı hedef görsel ile çalışmaktadır.
+Bu görsel algılandığında balık türleri görüntülenir ve kullanıcı balıklar hakkında bilgi alabilir.
+
+![Balık Müzesi Target](images/balik_gorseli.jpg)
+
+---
+
+### 🧽 SüngerBob Hedef Görseli
+
+Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz sistemi aktif hale gelir.
+
+![SüngerBob Target](images/sungerbob_gorseli.jpg)
+
+
 
 ### 🐟 Balık Müzesi Hedef Görseli
 
