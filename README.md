@@ -207,12 +207,28 @@ Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz si
 
 # 🚀 Projeyi Çalıştırma
 
+Uygulama herhangi bir mobil cihazda doğrudan çalışıyor.
+
 1. Projeyi GitHub üzerinden indiriniz.
 2. Unity Hub ile projeyi açınız.
 3. Unity 2022.3.62f3 sürümünü kullanınız.
 4. Gerekirse Vuforia paketini projeye ekleyiniz.
 5. Android cihaz üzerinde Build alınız veya APK dosyasını yükleyiniz.
 6. Uygulama açıldıktan sonra hedef görselleri kameraya göstererek AR deneyimini başlatınız.
+
+---
+## 🔧 Projeyi Geliştirmek ve Düzenlemek
+
+Projede değişiklik yapmak isteyen geliştiriciler aşağıdaki adımları takip edebilir:
+
+1. Projeyi GitHub üzerinden indiriniz.
+2. Unity Hub kurunuz.
+3. Unity 2022.3.62f3 sürümünü yükleyiniz.
+4. Projeyi Unity ile açınız.
+5. Vuforia paketini ekleyiniz.
+6. Assets klasörü içerisindeki scriptleri ve sahneleri düzenleyiniz.
+7. Yeni hedef görseller veya 3D modeller ekleyiniz.
+8. Android Build alarak değişiklikleri test ediniz.
 
 ---
 # 🌊 Sonuç
