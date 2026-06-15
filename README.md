@@ -142,6 +142,16 @@ Projeyi çalıştırmak için:
 
 ---
 
+## 📋 Trello Board
+
+Proje geliştirme süreci aşağıdaki Trello panosu üzerinden takip edilmiştir.
+
+🔗 Trello Link:
+https://trello.com/b/UJDZrCmb/my-trello-board
+
+
+---
+
 ## 📱 APK İndirme Bağlantısı
 
 Uygulamanın hızlı ve kolay şekilde test edilebilmesi için hazır APK dosyası aşağıdaki bağlantıdan indirilebilir:
@@ -167,20 +177,21 @@ bulunmaktadır.
 https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sharing
 
 ---
-
-# 🖼 AR Hedef Görselleri
-
-Uygulama iki farklı hedef görsel ile çalışmaktadır.
+## 🖼 AR Hedef Görselleri
 
 ### 🐟 Balık Müzesi Hedef Görseli
 
-Bu görsel algılandığında balık türleri görüntülenir ve balık bilgileri gösterilir.
+Bu görsel algılandığında balık türleri görüntülenir ve kullanıcı balıklar hakkında bilgi alabilir.
+
+<img src="images/balik_gorseli.jpg" width="500">
+
+---
 
 ### 🧽 SüngerBob Hedef Görseli
 
 Bu görsel algılandığında SüngerBob karakterleri görüntülenir ve quiz sistemi aktif hale gelir.
 
-Her iki hedef görsel de yukarıdaki Google Drive bağlantısında bulunmaktadır.
+<img src="images/sungerbob_goresli.jpg" width="500">
 
 ---
 
