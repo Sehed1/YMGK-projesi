@@ -156,7 +156,7 @@ Projeyi çalıştırmak için:
 
 Proje aşağıdaki teknik kriterler doğrultusunda değerlendirilmiştir:
 
-- Çalışan modül oranı: %100
+- Çalışan modül oranı: Tüm modüller sorunsuz şekilde %100 çalışmaktadır. 
 - Gerçek ortam testi: Android cihazlarda başarıyla test edilmiştir.
 - Hata toleransı: Hedef görsel algılanmadığında uygulama kararlı şekilde çalışmaya devam etmektedir.
 - Kullanıcı doğrulaması: Kullanıcı testleri gerçekleştirilmiş ve olumlu geri bildirimler alınmıştır.
