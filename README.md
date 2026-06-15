@@ -14,6 +14,8 @@ Dijital Balık Müzesi, çocuklara yönelik geliştirilmiş artırılmış gerç
 
 Uygulama, çocukların deniz canlılarını daha eğlenceli ve etkileşimli bir şekilde öğrenmelerini amaçlamaktadır. Sistem, kamera aracılığıyla belirlenen hedef görselleri algılar ve ilgili 3D içerikleri artırılmış gerçeklik ortamında görüntüler.
 
+Bu proje bana aittir ve tüm sorumluluk benimdir (Tek kişilik proje).
+
 Proje iki farklı AR deneyimi sunmaktadır:
 
 🐟 **Balık Müzesi**
