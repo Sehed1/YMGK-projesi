@@ -861,10 +861,10 @@ MonoBehaviour:
   balikAdi: 
   aciklama: 
   tehlikeliMi: 0
-  answerA: 
-  answerB: 
-  correctAnswer: 
-  voiceClip: {fileID: 0}
+  answerA: "K\u0131skan\xE7lar\u0131yla"
+  answerB: "Y\xFCzge\xE7leriyle"
+  correctAnswer: A
+  voiceClip: {fileID: 8300000, guid: abda6180161244c918265565d4e52ea1, type: 3}
 --- !u!1 &769482089 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1f7d2276d812e423d948d1088c33922d, type: 3}
@@ -1016,6 +1016,25 @@ MonoBehaviour:
   moveRange: 0.5
   waveHeight: 0.1
   waveSpeed: 2
+--- !u!114 &769482100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 769482089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83618f5328fc4166b37a9c8d30c5f7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  balikAdi: 
+  aciklama: 
+  tehlikeliMi: 0
+  answerA: ' Deniz Salyangozu'
+  answerB: "Deniz Y\u0131ld\u0131z\u0131"
+  correctAnswer: A
+  voiceClip: {fileID: 8300000, guid: 7457ae250b20e4c798c4c023f216fd66, type: 3}
 --- !u!1 &779571791
 GameObject:
   m_ObjectHideFlags: 0
@@ -1604,6 +1623,25 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &865449738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 331848750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83618f5328fc4166b37a9c8d30c5f7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  balikAdi: 
+  aciklama: 
+  tehlikeliMi: 0
+  answerA: "Yak\u0131c\u0131 h\xFCcreleriyle"
+  answerB: "Kabuklar\u0131yla"
+  correctAnswer: A
+  voiceClip: {fileID: 8300000, guid: 5b31f42a60bf74edeadc4fe1db7f1d1e, type: 3}
 --- !u!1 &889386673
 GameObject:
   m_ObjectHideFlags: 0
@@ -1683,7 +1721,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 82fa12335ac60445e81fe1901b46d218, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1804,6 +1842,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpHeight: 0.3
   speed: 2
+--- !u!114 &930146342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 930146331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83618f5328fc4166b37a9c8d30c5f7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  balikAdi: 
+  aciklama: 
+  tehlikeliMi: 0
+  answerA: "Deniz Y\u0131ld\u0131z\u0131"
+  answerB: "Denizanas\u0131"
+  correctAnswer: A
+  voiceClip: {fileID: 8300000, guid: 82fa12335ac60445e81fe1901b46d218, type: 3}
 --- !u!1 &945141271
 GameObject:
   m_ObjectHideFlags: 0
@@ -2086,6 +2143,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   partToMove: {fileID: 1791425135}
+--- !u!114 &974392289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 974392277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83618f5328fc4166b37a9c8d30c5f7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  balikAdi: 
+  aciklama: 
+  tehlikeliMi: 0
+  answerA: "M\xFCrekkep p\xFCsk\xFCrterek"
+  answerB: "Kabu\u011Funa saklanarak"
+  correctAnswer: A
+  voiceClip: {fileID: 8300000, guid: 91f21c76f6e25470a9ac7ecc235b62cc, type: 3}
 --- !u!1 &975675224
 GameObject:
   m_ObjectHideFlags: 0
@@ -2518,6 +2594,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6b4ba9591b3904e41828e13ca33bc2cc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 930146339}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6b4ba9591b3904e41828e13ca33bc2cc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 930146342}
   m_SourcePrefab: {fileID: 100100000, guid: 6b4ba9591b3904e41828e13ca33bc2cc, type: 3}
 --- !u!1 &1094589001
 GameObject:
@@ -4161,6 +4240,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 1f7d2276d812e423d948d1088c33922d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 769482097}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 1f7d2276d812e423d948d1088c33922d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 769482100}
   m_SourcePrefab: {fileID: 100100000, guid: 1f7d2276d812e423d948d1088c33922d, type: 3}
 --- !u!1 &1433178917 stripped
 GameObject:
@@ -9236,6 +9318,25 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1476678605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476678597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83618f5328fc4166b37a9c8d30c5f7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  balikAdi: 
+  aciklama: 
+  tehlikeliMi: 0
+  answerA: "Bir\xE7ok canl\u0131ya besin sa\u011Flar"
+  answerB: "Deniz suyunu tatl\u0131 suya d\xF6n\xFC\u015Ft\xFCr\xFCr"
+  correctAnswer: A
+  voiceClip: {fileID: 8300000, guid: 92380aa7ac0cf4454b2f3d2061eb0463, type: 3}
 --- !u!1001 &1675102648
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9573,6 +9674,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f60df71abfbeb46d3802bce89aefec41, type: 3}
       insertIndex: -1
       addedObject: {fileID: 865449733}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f60df71abfbeb46d3802bce89aefec41, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 865449738}
   m_SourcePrefab: {fileID: 100100000, guid: f60df71abfbeb46d3802bce89aefec41, type: 3}
 --- !u!1001 &1744487034
 PrefabInstance:
@@ -9674,6 +9778,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a407048b0e4f40b7b4d6b20631d0e38, type: 3}
       insertIndex: -1
       addedObject: {fileID: 974392286}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a407048b0e4f40b7b4d6b20631d0e38, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 974392289}
     - targetCorrespondingSourceObject: {fileID: -8033432780077890102, guid: 4a407048b0e4f40b7b4d6b20631d0e38, type: 3}
       insertIndex: -1
       addedObject: {fileID: 358268739}
@@ -9806,6 +9913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   otherTarget: {fileID: 1970275305}
+  uiManager: {fileID: 2058403617}
 --- !u!114 &1778339414
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10581,6 +10689,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bc58a0a08b3cf43939262c400bc95adf, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1476678601}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bc58a0a08b3cf43939262c400bc95adf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1476678605}
   m_SourcePrefab: {fileID: 100100000, guid: bc58a0a08b3cf43939262c400bc95adf, type: 3}
 --- !u!1 &1970275305
 GameObject:
@@ -10821,6 +10932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   otherTarget: {fileID: 1778339408}
+  uiManager: {fileID: 0}
 --- !u!114 &1970275312
 MonoBehaviour:
   m_ObjectHideFlags: 0

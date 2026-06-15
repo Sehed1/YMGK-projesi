@@ -3,7 +3,8 @@ using Vuforia;
 
 public class TargetController : MonoBehaviour
 {
-    public GameObject otherTarget; // الهدف الثاني
+    public GameObject otherTarget;
+    public UIManager uiManager;
 
     private ObserverBehaviour observer;
 
@@ -15,17 +16,20 @@ public class TargetController : MonoBehaviour
 
     void OnStatusChanged(ObserverBehaviour behaviour, TargetStatus status)
     {
-        if (status.Status == Status.TRACKED || status.Status == Status.EXTENDED_TRACKED)
+        if (status.Status == Status.TRACKED ||
+            status.Status == Status.EXTENDED_TRACKED)
         {
-            // 🔥 لما هذا يظهر → نخفي الثاني
             if (otherTarget != null)
                 otherTarget.SetActive(false);
         }
         else
         {
-            // 🔥 لما يختفي → نرجع الثاني
             if (otherTarget != null)
                 otherTarget.SetActive(true);
+
+            // إخفاء معلومات السمكة عند فقدان التارغت
+            if (uiManager != null)
+                uiManager.Hide();
         }
     }
 }

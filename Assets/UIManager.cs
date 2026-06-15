@@ -10,11 +10,13 @@ public class UIManager : MonoBehaviour
 
     void Start()
     {
-        panel.SetActive(true);
+        // إخفاء اللوحة عند بدء التطبيق
+        panel.SetActive(false);
     }
+
     public void ShowInfo(FishInfo info)
     {
-        Debug.Log("SHOWINFO CALLED"); // 🔥
+        Debug.Log("SHOWINFO CALLED");
 
         panel.SetActive(true);
 
@@ -36,5 +38,9 @@ public class UIManager : MonoBehaviour
     public void Hide()
     {
         panel.SetActive(false);
+
+        nameText.text = "";
+        descriptionText.text = "";
+        dangerText.text = "";
     }
 }
