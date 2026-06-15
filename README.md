@@ -1,16 +1,29 @@
 # 🐟🧽 Dijital Balık Müzesi
 
+# 👩‍💻 Geliştirici
+
+**ŞEHED HATİB**
+
+Öğrenci No: 220541608
+
+---
+
 ## 📖 Proje Hakkında
 
 Dijital Balık Müzesi, çocuklara yönelik geliştirilmiş artırılmış gerçeklik (AR) tabanlı eğitsel bir mobil uygulamadır.
 
 Uygulama, çocukların deniz canlılarını daha eğlenceli ve etkileşimli bir şekilde öğrenmelerini amaçlamaktadır. Sistem, kamera aracılığıyla belirlenen hedef görselleri algılar ve ilgili 3D içerikleri artırılmış gerçeklik ortamında görüntüler.
 
+
 Proje iki farklı AR deneyimi sunmaktadır:
 
 🐟 **Balık Müzesi**
 
 🧽 **SüngerBob Dünyası**
+
+
+**Bu proje bana aittir ve tüm sorumluluk benimdir (Tek kişilik proje).**
+
 
 ---
 
@@ -129,13 +142,20 @@ Projeyi çalıştırmak için:
 
 ---
 
+## 📱 APK İndirme Bağlantısı
+
+Uygulamanın hızlı ve kolay şekilde test edilebilmesi için hazır APK dosyası aşağıdaki bağlantıdan indirilebilir:
+
+🔗  https://drive.google.com/drive/folders/1HFjKkMXcYMJxgZ5kXXoG7l2XPNy471Lm?usp=sharing
+
+---
+
 # 📥 Ek Dosyalar
 
 GitHub dosya boyutu sınırları nedeniyle bazı dosyalar depoya eklenmemiştir.
 
 Aşağıdaki bağlantıda:
 
-- APK dosyası
 - Vuforia paketi
 - Balık Müzesi hedef görseli
 - SüngerBob hedef görseli
@@ -185,13 +205,6 @@ Her iki hedef görsel de yukarıdaki Google Drive bağlantısında bulunmaktadı
 
 ---
 
-# 👩‍💻 Geliştirici
-
-**ŞEHED HATİB**
-
-Öğrenci No: 220541608
-
----
 
 # 🌊 Sonuç
 
